@@ -1,0 +1,14 @@
+[
+    {
+        "name": "John Doe",
+        "email": "lazana.stha@gmail.com",
+        "password": "$2y$10$i0gwauzyoaE6LFweHDgTIe94YHpdmDS7ONlbT4inS8qI0sgQIeCiG",
+        "registration_date": "2025-12-08 03:46:51"
+    },
+    {
+        "name": "Lazana Shrestha",
+        "email": "eup403@gmail.com",
+        "password": "$2y$10$Csi.085LLGlQPPE62bWsKuSKMBFqFhuJ5aS3nHhxlpnJhj1fGOPxm",
+        "registration_date": "2025-12-14 16:20:06"
+    }
+]
