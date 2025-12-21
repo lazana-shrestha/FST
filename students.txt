@@ -1,0 +1,6 @@
+Lazana Shrestha|lazana.stha@gmail.com|PHP, HTML, CSS, JavaScript
+John Doe|NP03CS4A240021@heraldcollege.edu.np|PHP, JavaScript
+Gicsbka|np01cs4a240021@heraldcollege.edu.np|PHP, JavaScript
+Bibika Pakhe|abc@gmail.com|Lazanako, Dimag, Chatne
+Random|random@gmail.com|Random
+
